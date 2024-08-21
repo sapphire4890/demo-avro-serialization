@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "DemoDTO",
+  "fields":[
+    {"name": "param0", "type": "string"},
+    {"name": "param1", "type": "string"},
+    {"name": "param2", "type": "string"}
+  ]
+}
